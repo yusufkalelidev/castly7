@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ innovative, agile, sportsman, driver
+⚡ innovative, swift, sportsman, driver
 
 
 # 💻 Tech Stack:
