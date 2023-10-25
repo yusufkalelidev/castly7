@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SESASIS<br>
-
+🔭 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-kaleli-5b85b0249/) 
